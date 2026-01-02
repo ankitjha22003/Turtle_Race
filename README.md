@@ -62,7 +62,7 @@ Add enemies or power-ups
 
 👨‍💻 Author
 
-Created by [Your Name]
+Created by ---- > ankit jha
 
 📜 License
 
